@@ -1,4 +1,4 @@
-/* @flow */
+/* @rudysantosa0586*/
 /*
 ---
 id: five-simple-examples
